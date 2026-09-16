@@ -1,6 +1,11 @@
 # Welcome to your Lovable project
 
 This project was built with [Lovable](https://lovable.dev).
+# LMS Dashboard
+
+## 🚀 Live Demo
+
+[View Live Website](https://tanstack-start-ts-lms-dashboard-code.lms-dashboard-hammad.workers.dev)
 
 ## Build with Lovable
 
